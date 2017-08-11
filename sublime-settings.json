@@ -1,0 +1,19 @@
+{
+  "color_scheme": "Packages/Theme - Cyanide/Monocyanide.tmTheme",
+  "contrasted_quick_panel": true,
+  "contrasted_sidebar": true,
+  "contrasted_tabs": true,
+  "ensure_newline_at_eof_on_save": true,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "large_scrollbars": true,
+  "show_definitions": false,
+  "spacefunk_folder_icons": true,
+  "tab_size": 2,
+  "tabs_medium": true,
+  "theme": "Cyanide.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true
+}
